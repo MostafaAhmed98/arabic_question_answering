@@ -9,7 +9,6 @@ This project demonstrates how to fine-tune a BERT-based model for Arabic questio
 - [Model](#model)
 - [Requirements](#requirements)
 - [Usage](#usage)
-  - [Inference with Gradio](#inference-with-gradio)
 
 ## Introduction
 

@@ -26,5 +26,5 @@ This code demonstrates fine-tuning the pre-trained MARBERTv2 model on a question
 * Loads the fine-tuned model checkpoint.
 * Creates a question-answering pipeline for making predictions.
 
-This code provides a foundation for fine-tuning a pre-trained model for question answering on Arabic text data, particularly for handling long contexts.
+This code provides a foundation for fine-tuning a pre-trained model for question answering on Arabic text data.
 

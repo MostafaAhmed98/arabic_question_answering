@@ -29,14 +29,12 @@ To run the project, you need the following libraries installed:
 
 - `torch`
 - `transformers`
-- `datasets`
-- `pyarabic`
 - `gradio`
 
 You can install these dependencies using pip:
 
 ```bash
-pip install torch transformers datasets pyarabic gradio
+pip install torch transformers gradio
 ```
 
 ## Usage

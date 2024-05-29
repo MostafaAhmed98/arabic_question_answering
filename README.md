@@ -79,5 +79,5 @@ pip install torch transformers datasets pyarabic gradio
 3. **Run the Gradio app:**
 
     ```bash
-    python your_script.py
+    python app.py
     ```

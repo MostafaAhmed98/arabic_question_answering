@@ -1,2 +1,2 @@
-## You can Find the project assests at https://huggingface.co/spaces/MostafaAhmed98/arabic_question_answering
+## You can Find the project assests at https://huggingface.co/MostafaAhmed98/MARBERTv2-finetuned-ar-tydiqa
 
